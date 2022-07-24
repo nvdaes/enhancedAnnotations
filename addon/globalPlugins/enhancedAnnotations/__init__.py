@@ -18,9 +18,9 @@ from controlTypes import OutputReason
 from scriptHandler import script
 import addonHandler
 
-from skipTranslation import translate
+from .skipTranslation import translate
 
-addonHandler.initTranslations()
+addonHandler.initTranslation()
 
 _: Callable[[str], str]
 
