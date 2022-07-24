@@ -21,6 +21,8 @@ from skipTranslation import translate
 
 addonHandler.initTranslations()
 
+_: Callable[[str], str]
+
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	scriptCategory = inputCore.SCRCAT_BROWSEMODE
