@@ -6,7 +6,6 @@
 # Released under GPL 2
 
 import api
-import textInfos
 import ui
 import speech
 import inputCore
@@ -22,6 +21,7 @@ from skipTranslation import translate
 addonHandler.initTranslations()
 
 _: Callable[[str], str]
+
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
@@ -61,7 +61,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 
 	@script(
 		# Translators: message presented in input help mode.
-		description=_("After navigating from an object to additional details, moves back to the original position in browse mode"),
+		description=_("After navigating to additional details, moves back to the original position in browse mode"),
 		gesture="kb:NVDA+shift+alt+d"
 	)
 	def script_moveBackToObjWithDetails(self, gesture):
