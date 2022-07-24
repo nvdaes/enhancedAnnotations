@@ -5,6 +5,8 @@
 # Copyright (C) 2022 Noelia Ruiz Martínez
 # Released under GPL 2
 
+from typing import Callable
+
 import api
 import ui
 import speech
