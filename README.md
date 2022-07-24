@@ -1,4 +1,5 @@
 # Enhanced Annotations #
+
 *	Authors: George Kerscher, Noelia Ruiz Martínez
 * (compatible with NVDA 2022.1 and beyond)
 
@@ -22,6 +23,5 @@ This add-on provides both features, in support of this [issue opened in NVDA's r
 * NVDA+alt+shift+d: moves the cursor to the original element, for example, an image with furter details like a long description.
 
 The above commands can be modified from NVDA's menu, Preferences submenu, Input gestures dialog, Browse mode category.
-
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
