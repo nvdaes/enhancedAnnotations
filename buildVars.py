@@ -26,7 +26,7 @@ addon_info = {
 	# Author(s)
 	"addon_author": u"George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
-	"addon_url": "https://github.com/nvdaes/enhancedAnnotations
+	"addon_url": "https://github.com/nvdaes/enhancedAnnotations",
 	# Documentation file name
 	"addon_docFileName": "readme.html",
 	# Minimum NVDA version supported (e.g. "2018.3")
