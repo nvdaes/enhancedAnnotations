@@ -22,7 +22,7 @@ addon_info = {
 	https://github.com/nvaccess/nvda/issues/13940
 	"""),
 	# version
-	"addon_version": "2022-07-24-dev",
+	"addon_version": "",
 	# Author(s)
 	"addon_author": u"George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
@@ -42,7 +42,7 @@ addon_info = {
 
 # Define the python files that are the sources of your add-on.
 # You can use glob expressions here, they will be expanded.
-pythonSources = [os.path.join("addon", "*.py"), os.path.join("addon", "globalPlugins", "clipContentsDesigner", "*.py")]
+pythonSources = [os.path.join("addon", "globalPlugins", "enhancedAnnotations", "*.py")]
 
 # Files that contain strings for translation. Usually your python sources
 i18nSources = pythonSources + ["buildVars.py"]
