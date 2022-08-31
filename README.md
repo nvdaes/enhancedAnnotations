@@ -1,7 +1,7 @@
 # Enhanced Annotations #
 
 *	Authors: George Kerscher, Noelia Ruiz Martínez
-* (compatible with NVDA 2022.1 and beyond)
+* [download stable version][1] (compatible with NVDA 2022.1 and beyond)
 
 In the DAISY Consortium, best practices are developed for publishers and authors for providing extended (long) descriptions.
 
@@ -23,5 +23,7 @@ This add-on provides both features, in support of this [issue opened in NVDA's r
 * NVDA+alt+shift+d: moves the cursor to the original element, for example, an image with furter details like a long description.
 
 The above commands can be modified from NVDA's menu, Preferences submenu, Input gestures dialog, Browse mode category.
+
+[1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
