@@ -1,4 +1,4 @@
-# Laajennetut selitteet #
+# Laajennetut merkinnät #
 
 * Tekijät: George Kerscher ja Noelia Ruiz Martínez
 * [Lataa vakaa versio][1] (yhteensopiva NVDA 2022.1:n ja sitä uudempien
