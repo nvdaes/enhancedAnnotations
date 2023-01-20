@@ -1,0 +1,54 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enhancedAnnotations package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enhancedAnnotations 1.0\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2022-09-30 05:30+0000\n"
+"PO-Revision-Date: 2023-01-18 12:29+0100\n"
+"Last-Translator: Iván Novegil Cancelas <ivan.novegil.cancelas@gmail.com>\n"
+"Language-Team: \n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.2.2\n"
+
+#. Translators: message presented in input help mode.
+msgid "Navigates to the details of the current position in browse mode"
+msgstr "Navega ós detalles da posición actual en modo exploración"
+
+#. Translators: message presented in input help mode.
+msgid ""
+"After navigating to additional details, moves back to the original position "
+"in browse mode"
+msgstr ""
+"Despois de navegar ós detalles adicionais, móvese de volta á posición "
+"orixinal en modo exploración"
+
+#. Translators: message presented when there's no original object to go back from additional details.
+msgid "No element with additional details to go back"
+msgstr "Non hai elemento con detalles adicionais ó que volver"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Enhanced Annotations"
+msgstr "Enhanced Annotations"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Adds ability to move the cursor to additional details, and back to the "
+"original element, in browse mode.\n"
+"\tThis has been requested at\n"
+"\thttps://github.com/nvaccess/nvda/issues/13940\n"
+"\t"
+msgstr ""
+"engade a posibilidade de mover o cursor ós detalles adicionais, e de volta "
+"ó elemento orixinal, en modo exploración.\n"
+"\tIsto solicitouse en:\n"
+"\thttps://github.com/nvaccess/nvda/issues/13940\n"
+"\t"
