@@ -3,7 +3,7 @@
 # enhancedAnnotations: add ability to move to additional details and go back to original object
 # https://github.com/nvaccess/nvda/issues/13940
 # Copyright (C) 2022-2023 Noelia Ruiz Martínez, NV Access
-# Implementation of PR: https://github.com/nvaccess/nvda/pull/14389 
+# Implementation of PR: https://github.com/nvaccess/nvda/pull/14389
 # Released under GPL 2
 
 from typing import Callable, Optional
