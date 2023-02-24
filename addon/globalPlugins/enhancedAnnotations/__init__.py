@@ -6,7 +6,7 @@
 # Implementation of PR: https://github.com/nvaccess/nvda/pull/14389 
 # Released under GPL 2
 
-from typing import Callable
+from typing import Callable, Optional
 
 import api
 import config
@@ -15,10 +15,8 @@ import speech
 import textInfos
 import inputCore
 import globalPluginHandler
-from annotation import (
-	_AnnotationNavigation,
-	_AnnotationNavigationNode,
-)
+from annotation import _AnnotationNavigation
+
 from logHandler import log
 from browseMode import BrowseModeDocumentTreeInterceptor
 from controlTypes import OutputReason
@@ -80,7 +78,7 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 			log.debug("no details annotation found")
 		return None
 
-	_annotationNav = AnnotationNavigation()
+	_annotationNav = _AnnotationNavigation()
 
 	@script(
 		gesture="kb:NVDA+alt+d",
