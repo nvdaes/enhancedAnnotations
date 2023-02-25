@@ -1,7 +1,7 @@
 # Enhanced Annotations #
 
 *	Authors: George Kerscher, Noelia Ruiz Martínez
-* [download stable version][1] (compatible with NVDA 2022.1 and beyond)
+* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 In the DAISY Consortium, best practices are developed for publishers and authors for providing extended (long) descriptions.
 
@@ -20,9 +20,14 @@ This add-on provides both features, in support of this [issue opened in NVDA's r
 ## Commands ##
 
 * NVDA+alt+d: moves the cursor to the element identified with aria-details.
-* NVDA+alt+shift+d: moves the cursor to the original element, for example, an image with furter details like a long description.
+* NVDA+alt+shift+d: moves the cursor to the original element, for example, an image with furter details like a long description. If NVDA+alt+d has been pressed several times to move to related annotations, it'll be possible to go back to each origin.
 
 The above commands can be modified from NVDA's menu, Preferences submenu, Input gestures dialog, Browse mode category.
+
+## Changes for 2.0 ##
+
+* Added ability to move back through multiple annotation origins.
+* Requires NVDA 2023.1 or later.
 
 [1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
 
