@@ -6,10 +6,9 @@
 # Implementation of PR: https://github.com/nvaccess/nvda/pull/14389
 # Released under GPL 2
 
-from typing import Callable, Optional
+from typing import Callable
 
 import api
-import config
 import ui
 import speech
 import textInfos
@@ -22,7 +21,6 @@ from controlTypes import OutputReason
 from NVDAObjects import NVDAObject
 from scriptHandler import script
 import addonHandler
-
 
 from .skipTranslation import translate
 
