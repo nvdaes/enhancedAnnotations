@@ -1,8 +1,7 @@
 # Разширени анотации (Enhanced Annotations) #
 
-* Автори: George Kerscher, Noelia Ruiz Martínez
-* [изтегляне на стабилна версия][1] (съвместима с NVDA 2022.1 и по-нови
-  версии)
+*	Authors: George Kerscher, Noelia Ruiz Martínez
+* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 В консорциума DAISY са разработени най-добри практики за издатели и автори
 за предоставяне на разширени (дълги) описания.
@@ -32,12 +31,19 @@
 ## Команди ##
 
 * NVDA+Alt+D: Премества курсора към елемента, идентифициран с aria-details.
-* NVDA+Alt+Shift+D: Премества курсора към оригиналния елемент, например
-  изображение с допълнителни подробности като дълго описание.
+* NVDA+alt+shift+d: moves the cursor to the original element, for example,
+  an image with furter details like a long description. If NVDA+alt+d has
+  been pressed several times to move to related annotations, it'll be
+  possible to go back to each origin.
 
 Гореизброените команди могат да се променят от менюто на NVDA -> подменюто
 "Настройки" -> диалоговия прозорец "Жестове на въвеждане" -> категорията
 "Режим на разглеждане".
+
+## Changes for 2.0 ##
+
+* Added ability to move back through multiple annotation origins.
+* Requires NVDA 2023.1 or later.
 
 [[!tag dev stable]]
 

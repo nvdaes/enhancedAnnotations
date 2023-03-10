@@ -1,7 +1,7 @@
 # Verbesserte Annotations #
 
-* Autoren: George Kerscher, Noelia Ruiz Martínez
-* [Stabile Version herunterladen][1] (kompatibel mit NVDA 2022.1 und neuer)
+*	Authors: George Kerscher, Noelia Ruiz Martínez
+* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 Im DAISY-Konsortium werden Best Practices für Verlage und Autoren
 entwickelt, um erweiterte (lange) Beschreibungen bereitzustellen.
@@ -33,12 +33,19 @@ eingereicht im NVDA-Repository][2].
 
 * NVDA+Alt+D: Zieht den Cursor auf das mit "aria-details" gekennzeichnete
   Element.
-* NVDA+Alt+Umschalt+D: Zieht den Cursor auf das ursprüngliche Element,
-  z. B. ein Bild mit weiteren Details wie einer langen Beschreibung.
+* NVDA+alt+shift+d: moves the cursor to the original element, for example,
+  an image with furter details like a long description. If NVDA+alt+d has
+  been pressed several times to move to related annotations, it'll be
+  possible to go back to each origin.
 
 Die oben genannten Tastenbefehle können über die Einstellungen im NVDA-Menü
 im Dialogfeld für die Tastenbefehle und dort in der Kategorie "Lesemodus"
 geändert werden.
+
+## Changes for 2.0 ##
+
+* Added ability to move back through multiple annotation origins.
+* Requires NVDA 2023.1 or later.
 
 [[!tag dev stable]]
 
