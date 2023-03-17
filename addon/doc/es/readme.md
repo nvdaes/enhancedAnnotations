@@ -1,7 +1,7 @@
 # Anotaciones mejoradas #
 
-*	Authors: George Kerscher, Noelia Ruiz Martínez
-* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
+* Autores: George Kerscher, Noelia Ruiz Martínez
+* [descargar versión estable][1] (compatible con NVDA 2023.1 y posterior)
 
 En el consorcio DAISY, se desarrollan buenas prácticas para que los
 publicadores y autores proporcionen descripciones extendidas (largas).
@@ -30,18 +30,19 @@ Este complemento proporciona ambas características, como apoyo a esta
 ## Órdenes ##
 
 * NVDA+alt+d: mueve el cursor al elemento identificado con aria-details.
-* NVDA+alt+shift+d: moves the cursor to the original element, for example,
-  an image with furter details like a long description. If NVDA+alt+d has
-  been pressed several times to move to related annotations, it'll be
-  possible to go back to each origin.
+* NVDA+alt+shift+d: mueve el cursor al elemento original. Por ejemplo, una
+  imagen con más detalles, como una descripción larga. Si se ha pulsado
+  NVDA+alt+d varias veces para desplazarse a anotaciones relacionadas, será
+  posible regresar a cada origen.
 
 Las órdenes anteriores pueden modificarse desde el menú NVDA, submenú
 Preferencias, diálogo Gestos de entrada, categoría Modo exploración.
 
-## Changes for 2.0 ##
+## Cambios para 2.0 ##
 
-* Added ability to move back through multiple annotation origins.
-* Requires NVDA 2023.1 or later.
+* Se ha añadido la posibilidad de retroceder por varios orígenes de
+  anotaciones.
+* Se requiere NVDA 2023.1 o posterior.
 
 [[!tag dev stable]]
 

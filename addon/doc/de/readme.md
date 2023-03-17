@@ -1,6 +1,6 @@
 # Verbesserte Annotations #
 
-*	Authors: George Kerscher, Noelia Ruiz Martínez
+* Autoren: George Kerscher, Noelia Ruiz Martínez
 * [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 Im DAISY-Konsortium werden Best Practices für Verlage und Autoren

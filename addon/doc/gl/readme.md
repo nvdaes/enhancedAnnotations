@@ -1,6 +1,6 @@
 # Enhanced Annotations #
 
-*	Authors: George Kerscher, Noelia Ruiz Martínez
+* Autores: George Kerscher, Noelia Ruiz Martínez
 * [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 No DAISY Consortium, as boas prácticas desenvólvense para publicadores e
