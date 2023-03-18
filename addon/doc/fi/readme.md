@@ -1,7 +1,7 @@
 # Laajennetut merkinnät #
 
-*	Authors: George Kerscher, Noelia Ruiz Martínez
-* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
+* Tekijät: George Kerscher ja Noelia Ruiz Martínez
+* [Lataa vakaa versio][1] (yhteensopiva NVDA 2023.1:n ja uudempien kanssa)
 
 DAISY-konsortiossa kehitetään parhaita käytäntöjä julkaisijoille ja
 tekijöille laajennettujen (pitkien) kuvausten antamiseen.
@@ -31,19 +31,19 @@ lähdekoodivarastossa avattua ongelmaa][2].
 
 * NVDA+Alt+D: siirtää kohdistimen aria-details-attribuutilla merkittyyn
   elementtiin.
-* NVDA+alt+shift+d: moves the cursor to the original element, for example,
-  an image with furter details like a long description. If NVDA+alt+d has
-  been pressed several times to move to related annotations, it'll be
-  possible to go back to each origin.
+* NVDA+Alt+Vaihto+D: siirtää kohdistimen alkuperäiseen elementtiin,
+  esimerkiksi kuvaan, jossa on tarkempia tietoja, kuten pitkä kuvaus. Jos
+  NVDA+Alt+D:tä on painettu useita kertoja liittyviin merkintöihin
+  siirtymiseksi, kuhunkin alkuperään on mahdollista palata takaisin.
 
 Yllä olevia komentoja voidaan muokata kohdasta NVDA-valikko ->
 Asetukset-alivalikko -> Näppäinkomennot-valintaikkuna ->
 Selaustila-kategoria.
 
-## Changes for 2.0 ##
+## Muutokset versiossa 2.0 ##
 
-* Added ability to move back through multiple annotation origins.
-* Requires NVDA 2023.1 or later.
+* Lisätty mahdollisuus siirtyä useita merkintöjen alkuperiä taaksepäin.
+* Edellyttää NVDA 2023.1:tä tai uudempaa.
 
 [[!tag dev stable]]
 

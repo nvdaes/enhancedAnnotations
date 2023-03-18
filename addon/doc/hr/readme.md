@@ -1,7 +1,8 @@
 # Napredne zabilješke (Enhanced Annotations) #
 
-*	Authors: George Kerscher, Noelia Ruiz Martínez
-* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
+* Autori: George Kerscher, Noelia Ruiz Martínez
+* Preuzmi [stabilnu verziju][1] (kompatibilna s NVDA 2023.1 i novijom
+  verzijom)
 
 U konzorciju DAISY razvijaju se najbolje prakse za izdavače i autore za
 pružanje opsežnih opisa.
@@ -29,18 +30,18 @@ u NVDA repozitoriju][2].
 
 * NVDA+alt+d: pomiče kursor na element koji je identificiran s
   aria-detaljima.
-* NVDA+alt+shift+d: moves the cursor to the original element, for example,
-  an image with furter details like a long description. If NVDA+alt+d has
-  been pressed several times to move to related annotations, it'll be
-  possible to go back to each origin.
+* NVDA+alt+shift+d: pomiče kursor na izvorni element, na primjer, sliku s
+  daljnjim detaljima poput dugačkog opisa. Ako se nekoliko puta pritisne
+  NVDA+alt+d za pomicanje na povezane bilješke, bit će moguće vratiti se na
+  svaki izvor.
 
 Gornje naredbe mogu se promijeniti u NVDA izborniku, podizbornik Postavke,
 dijalošk okvir za ulazne geste, kategorija modus čitanja.
 
-## Changes for 2.0 ##
+## Promjene u verziji 2.0 ##
 
-* Added ability to move back through multiple annotation origins.
-* Requires NVDA 2023.1 or later.
+* Dodana je mogućnost za pomicanje unatrag kroz više izvora zabilješki.
+* Potrebna je NVDA verzija 2023.1 ili novija.
 
 [[!tag dev stable]]
 
