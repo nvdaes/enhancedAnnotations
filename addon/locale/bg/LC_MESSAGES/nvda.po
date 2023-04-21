@@ -8,30 +8,28 @@ msgstr ""
 "Project-Id-Version: enhancedAnnotations 1.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2022-09-30 05:30+0000\n"
-"PO-Revision-Date: 2022-09-30 08:47+0300\n"
+"PO-Revision-Date: 2023-04-14 08:39+0300\n"
 "Last-Translator: Kostadin Kolev <k_kolev1985@mail.bg>\n"
 "Language-Team: \n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2.2\n"
 
-#. Translators: message presented in input help mode.
-msgid "Navigates to the details of the current position in browse mode"
-msgstr "Навигира до подробностите към текущата позиция в режим на разглеждане"
-
-#. Translators: message presented in input help mode.
-msgid ""
-"After navigating to additional details, moves back to the original position "
-"in browse mode"
+#. Translators: the description for the reportDetailsSummary script.
+msgid "Go to annotation details under the system caret."
 msgstr ""
-"След навигиране до допълнителните подробности, се връща към първоначалната "
-"позиция в режим на разглеждане"
+"Навигиране до подробностите за анотация на позицията на системната "
+"каретка."
 
-#. Translators: message presented when there's no original object to go back from additional details.
-msgid "No element with additional details to go back"
-msgstr "Няма елемент с допълнителни подробности за връщане"
+#. Translators: the description for the script_popAnnotationStack script.
+msgid "Return to annotation subject"
+msgstr "Връщане към обекта на анотацията"
+
+#. Translators: message given when there is no annotation details for the reportDetailsSummary script.
+msgid "No annotation subject present"
+msgstr "Няма обект на анотация"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -52,3 +50,17 @@ msgstr ""
 "\tЗаявката за тази функция е публикувана на\n"
 "\thttps://github.com/nvaccess/nvda/issues/13940\n"
 "\t"
+
+#~ msgid "Navigates to the details of the current position in browse mode"
+#~ msgstr ""
+#~ "Навигира до подробностите към текущата позиция в режим на разглеждане"
+
+#~ msgid ""
+#~ "After navigating to additional details, moves back to the original "
+#~ "position in browse mode"
+#~ msgstr ""
+#~ "След навигиране до допълнителните подробности, се връща към "
+#~ "първоначалната позиция в режим на разглеждане"
+
+#~ msgid "No element with additional details to go back"
+#~ msgstr "Няма елемент с допълнителни подробности за връщане"

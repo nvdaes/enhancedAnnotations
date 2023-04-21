@@ -45,6 +45,6 @@ Preferencje, okna dialogowego Gesty wejściowe, kategorii Tryb przeglądania.
 
 [[!tag dev stable]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
+[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
