@@ -29,6 +29,6 @@ The above commands can be modified from NVDA's menu, Preferences submenu, Input 
 * Added ability to move back through multiple annotation origins.
 * Requires NVDA 2023.1 or later.
 
-[1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
+[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
