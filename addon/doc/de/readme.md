@@ -1,4 +1,4 @@
-# Verbesserte Annotations #
+# Verbesserte Anmerkungen #
 
 * Autoren: George Kerscher, Noelia Ruiz Martínez
 * [Stabile Version herunterladen][1] (kompatibel mit NVDA 2023.1 und neuer)
@@ -16,18 +16,18 @@ ihn aktivieren.
 Ein Tastendruck, um den Fokus auf die Details oder den Link zu legen, ist
 ideal.
 
-Unsere Best Practices empfehlen, dass die Details oder der Link unmittelbar
-auf das Bild folgen, und wenn dem Link gefolgt wird, muss ein Backlink zum
-genauen Standort angegeben werden. So wird sichergestellt, dass der Nutzer
-sich nicht verliert.
+Es wird empfohlen, dass die Details oder der Link unmittelbar auf das Bild
+folgen, und wenn dem Link gefolgt wird, muss ein Backlink zum genauen
+Standort angegeben werden. So wird sichergestellt, dass der Nutzer sich
+nicht verirrt.
 
 Es ist jedoch wahrscheinlich, dass viele Autoren die erweiterte (lange)
 Beschreibung fast überall platzieren. In diesen Fällen würde der Benutzer zu
 dem Bild zurückkehren wollen, und daher ist eine Möglichkeit erforderlich,
 zum Originalbild zurückzukehren.
 
-Diese Erweiterung bietet beide Funktionen, um dies zu unterstützen [Problem
-eingereicht im NVDA-Repository][2].
+Diese NVDA-Erweiterung bietet beide Funktionen, um dies zu unterstützen
+[Problem eingereicht im NVDA-Repository][2].
 
 ## Befehle ##
 
@@ -44,8 +44,7 @@ geändert werden.
 
 ## Änderungen in 2.0 ##
 
-* Es wurde die Möglichkeit hinzugefügt, sich durch mehrere Ursprünge von
-  Anmerkungen zurück zu bewegen.
+* Sie können durch mehrere Anmerkungen wechseln.
 * NVDA 2023.1 oder neuer wird benötigt.
 
 [[!tag dev stable]]
