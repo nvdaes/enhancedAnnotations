@@ -1,7 +1,6 @@
 # Anotações Melhoradas #
 
 * Autores: George Kerscher, Noelia Ruiz Martínez
-* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 No DAISY Consortium, são desenvolvidas as melhores práticas para editores e
 autores para fornecer descrições (longas) alargadas.
@@ -44,7 +43,5 @@ Preferências, diálogo definir comandos, categoria Modo de navegação.
 * Requires NVDA 2023.1 or later.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

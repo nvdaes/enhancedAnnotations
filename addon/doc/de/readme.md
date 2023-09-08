@@ -1,7 +1,6 @@
 # Verbesserte Anmerkungen #
 
 * Autoren: George Kerscher, Noelia Ruiz Martínez
-* [Stabile Version herunterladen][1] (kompatibel mit NVDA 2023.1 und neuer)
 
 Im DAISY-Konsortium werden Best Practices für Verlage und Autoren
 entwickelt, um erweiterte (lange) Beschreibungen bereitzustellen.
@@ -48,7 +47,5 @@ geändert werden.
 * NVDA 2023.1 oder neuer wird benötigt.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
