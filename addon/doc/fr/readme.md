@@ -1,7 +1,6 @@
 # Enhanced Annotations #
 
 * Auteurs : George Kerscher, Noelia Ruiz Martínez
-* [Télécharger version stable][1] (compatible avec NVDA 2023.1 et au-delà)
 
 Dans le consortium DAISY, les meilleures pratiques sont développées pour les
 éditeurs et les auteurs pour avoir fourni des descriptions étendues
@@ -48,7 +47,5 @@ catégorie Mode navigation.
 * Nécessite NVDA 2023.1 ou version ultérieure.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

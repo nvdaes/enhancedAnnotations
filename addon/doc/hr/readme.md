@@ -1,8 +1,6 @@
 # Napredne zabilješke (Enhanced Annotations) #
 
 * Autori: George Kerscher, Noelia Ruiz Martínez
-* Preuzmi [stabilnu verziju][1] (kompatibilna s NVDA 2023.1 i novijom
-  verzijom)
 
 U konzorciju DAISY razvijaju se najbolje prakse za izdavače i autore za
 pružanje opsežnih opisa.
@@ -44,7 +42,5 @@ dijalošk okvir za ulazne geste, kategorija modus čitanja.
 * Potrebna je NVDA verzija 2023.1 ili novija.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

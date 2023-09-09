@@ -1,7 +1,6 @@
 # Rozszerzone adnotacje #
 
 * Autorzy: George Kerscher, Noelia Ruiz Martínez
-* [pobierz stabilną wersję] [1] (kompatybilny z NVDA 2023.1 i nowszymi)
 
 W konsorcjum DAISY opracowywane są najlepsze praktyki dla wydawców i autorów
 w zakresie dostarczania rozszerzonych (długich) opisów.
@@ -44,7 +43,5 @@ Preferencje, okna dialogowego Gesty wejściowe, kategorii Tryb przeglądania.
 * Wymaga NVDA 2023.1 lub nowszego.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

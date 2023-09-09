@@ -1,7 +1,6 @@
 # Gelişmiş Ek Açıklamalar #
 
 * Yazarlar: George Kerscher, Noelia Ruiz Martínez
-* [kararlı sürümü indir][1] (NVDA 2023.1 ve sonrası ile uyumlu)
 
 DAISY Konsorsiyumu'nda, yayıncılar ve yazarlar için genişletilmiş (uzun)
 açıklamalar sağlamak için en iyi uygulamalar geliştirilmiştir.
@@ -43,7 +42,5 @@ iletişim kutusundan, Tarama modu kategorisinde değiştirilebilir.
 * NVDA 2023.1 veya sonraki sürümünü gerektirir.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

@@ -1,7 +1,6 @@
 # Enhanced Annotations #
 
 * Autores: George Kerscher, Noelia Ruiz Martínez
-* [descargar versión estable][1] (compatible con NVDA 2023.1 e posterior)
 
 No DAISY Consortium, as boas prácticas desenvólvense para publicadores e
 autores para proporcionar descricións extendidas (longas).
@@ -46,7 +45,5 @@ Preferencias, diálogo de Xestos de entrada, categoría Modo exploración.
 * Require NVDA 2023.1 ou posterior.
 
 [[!tag dev stable]]
-
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
