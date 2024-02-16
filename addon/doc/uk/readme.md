@@ -1,6 +1,6 @@
 # Enhanced Annotations (Розширені Анотації) #
 
-* Автори: George Kerscher, Noelia Ruiz Martínez
+* Authors: George Kerscher, Noelia Ruiz Martínez
 
 Консорціум DAISY розробляє найкращі практики для видавців і авторів щодо
 надання розширених (довгих) описів.

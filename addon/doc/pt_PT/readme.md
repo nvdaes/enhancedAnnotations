@@ -1,6 +1,6 @@
 # Anotações Melhoradas #
 
-* Autores: George Kerscher, Noelia Ruiz Martínez
+* Authors: George Kerscher, Noelia Ruiz Martínez
 
 No DAISY Consortium, são desenvolvidas as melhores práticas para editores e
 autores para fornecer descrições (longas) alargadas.

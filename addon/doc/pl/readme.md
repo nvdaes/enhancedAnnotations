@@ -1,6 +1,6 @@
 # Rozszerzone adnotacje #
 
-* Autorzy: George Kerscher, Noelia Ruiz Martínez
+* Authors: George Kerscher, Noelia Ruiz Martínez
 
 W konsorcjum DAISY opracowywane są najlepsze praktyki dla wydawców i autorów
 w zakresie dostarczania rozszerzonych (długich) opisów.
