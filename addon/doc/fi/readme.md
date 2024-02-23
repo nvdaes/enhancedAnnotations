@@ -1,6 +1,6 @@
 # Laajennetut merkinnät #
 
-* Authors: George Kerscher, Noelia Ruiz Martínez
+* Tekijät: George Kerscher ja Noelia Ruiz Martínez
 
 DAISY-konsortiossa kehitetään parhaita käytäntöjä julkaisijoille ja
 tekijöille laajennettujen (pitkien) kuvausten antamiseen.
