@@ -5,34 +5,34 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: enhancedAnnotations 1.0\n"
+"Project-Id-Version: enhancedAnnotations 3.0.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
-"POT-Creation-Date: 2022-09-30 05:30+0000\n"
-"PO-Revision-Date: 2023-04-15 16:28+0200\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"POT-Creation-Date: 2023-04-14 05:30+0000\n"
+"PO-Revision-Date: 2023-05-10 16:53+0200\n"
+"Last-Translator: Rémy Ruiz <remyruiz@gmail.com>\n"
 "Language-Team: \n"
-"Language: hr\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 1.8.8\n"
 
 #. Translators: the description for the reportDetailsSummary script.
 msgid "Go to annotation details under the system caret."
-msgstr "Idi na detalje zabilješke ispod kursora sustava."
+msgstr "Accédez aux détails de l'annotation sous le curseur système."
 
 #. Translators: the description for the script_popAnnotationStack script.
 msgid "Return to annotation subject"
-msgstr "Vrati se na predmet zabilješke"
+msgstr "Retournez au sujet de l'annotation"
 
 #. Translators: message given when there is no annotation details for the reportDetailsSummary script.
 msgid "No annotation subject present"
-msgstr "Nema predmeta zabilješki"
+msgstr "Aucun sujet d'annotation présent"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
 msgid "Enhanced Annotations"
-msgstr "Napredne zabilješke"
+msgstr "Annotations améliorées"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
@@ -43,21 +43,9 @@ msgid ""
 "\thttps://github.com/nvaccess/nvda/issues/13940\n"
 "\t"
 msgstr ""
-"Dodaje mogućnost premještanja kursora na dodatne detalje i natrag na izvorni "
-"element u modusu čitanja.\n"
-"\tOvo je bilo zatraženo na\n"
-"\thttps://github.com/nvaccess/nvda/issues/13940\n"
-"\t"
-
-#~ msgid "Navigates to the details of the current position in browse mode"
-#~ msgstr "Premješta kursor na detalje trenutačne pozicije u modusu čitanja"
-
-#~ msgid ""
-#~ "After navigating to additional details, moves back to the original "
-#~ "position in browse mode"
-#~ msgstr ""
-#~ "Nakon premještanja kursora na dodatne detalje, vraća se na izvornu "
-#~ "poziciju u modusu čitanja"
-
-#~ msgid "No element with additional details to go back"
-#~ msgstr "Nema elementa s dodatnim detaljima za vraćanje na izvorni element"
+"Ajoute la possibilité de déplacer le curseur vers des détails "
+"supplémentaires et de revenir à l'élément d'origine, en mode "
+"navigation.\n"
+"\tCela a été demandé sur\n"
+"\t\n"
+"https://github.com/nvaccess/nvda/issues/13940"

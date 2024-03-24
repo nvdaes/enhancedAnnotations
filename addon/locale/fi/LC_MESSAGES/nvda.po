@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: enhancedAnnotations\n"
 "Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2022-09-30 05:30+0000\n"
-"PO-Revision-Date: 2022-10-07 15:12+0200\n"
+"PO-Revision-Date: 2023-04-14 18:40+0200\n"
 "Last-Translator: Jani Kinnunen <janikinnunen340@gmail.com>\n"
 "Language-Team: fi_FI <janikinnunen340@gmail.com>\n"
 "Language: fi\n"
@@ -18,21 +18,17 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 1.6.11\n"
 
-#. Translators: message presented in input help mode.
-msgid "Navigates to the details of the current position in browse mode"
-msgstr "Siirtää selaustilassa nykyisen sijainnin tietoihin"
+#. Translators: the description for the reportDetailsSummary script.
+msgid "Go to annotation details under the system caret."
+msgstr "Siirry järjestelmäkohdistimen kohdalla oleviin merkinnän tietoihin."
 
-#. Translators: message presented in input help mode.
-msgid ""
-"After navigating to additional details, moves back to the original position "
-"in browse mode"
-msgstr ""
-"Siirtää selaustilassa takaisin alkuperäiseen sijaintiin, kun olet siirtynyt "
-"lisätietoihin"
+#. Translators: the description for the script_popAnnotationStack script.
+msgid "Return to annotation subject"
+msgstr "Palaa merkinnän aiheeseen"
 
-#. Translators: message presented when there's no original object to go back from additional details.
-msgid "No element with additional details to go back"
-msgstr "Ei lisätiedot sisältävää elementtiä, johon siirtyä takaisin"
+#. Translators: message given when there is no annotation details for the reportDetailsSummary script.
+msgid "No annotation subject present"
+msgstr "Merkinnän tietoja ei saatavilla"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -53,3 +49,16 @@ msgstr ""
 "\tTätä on pyydetty osoitteessa\n"
 "\thttps://github.com/nvaccess/nvda/issues/13940\n"
 "\t"
+
+#~ msgid "Navigates to the details of the current position in browse mode"
+#~ msgstr "Siirtää selaustilassa nykyisen sijainnin tietoihin"
+
+#~ msgid ""
+#~ "After navigating to additional details, moves back to the original "
+#~ "position in browse mode"
+#~ msgstr ""
+#~ "Siirtää selaustilassa takaisin alkuperäiseen sijaintiin, kun olet "
+#~ "siirtynyt lisätietoihin"
+
+#~ msgid "No element with additional details to go back"
+#~ msgstr "Ei lisätiedot sisältävää elementtiä, johon siirtyä takaisin"

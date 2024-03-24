@@ -1,8 +1,6 @@
 # Разширени анотации (Enhanced Annotations) #
 
-* Автори: George Kerscher, Noelia Ruiz Martínez
-* [Изтегляне на стабилна версия][1] (съвместима с NVDA 2023.1 и по-нови
-  версии)
+* Authors: George Kerscher, Noelia Ruiz Martínez
 
 В консорциума DAISY са разработени най-добри практики за издатели и автори
 за предоставяне на разширени (дълги) описания.
@@ -48,7 +46,5 @@
 * Изисква NVDA 2023.1 или по-нова версия.
 
 [[!tag dev stable]]
-
-[1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

@@ -1,7 +1,6 @@
 # Anotaciones mejoradas #
 
 * Autores: George Kerscher, Noelia Ruiz Martínez
-* [descargar versión estable][1] (compatible con NVDA 2023.1 y posterior)
 
 En el consorcio DAISY, se desarrollan buenas prácticas para que los
 publicadores y autores proporcionen descripciones extendidas (largas).
@@ -45,7 +44,5 @@ Preferencias, diálogo Gestos de entrada, categoría Modo exploración.
 * Se requiere NVDA 2023.1 o posterior.
 
 [[!tag dev stable]]
-
-[1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940

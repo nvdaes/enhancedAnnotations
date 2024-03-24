@@ -1,41 +1,46 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the enhancedAnnotations package.
+# This file is distributed under the same license as the 'enhancedAnnotations' package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: enhancedAnnotations 1.0\n"
-"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
-"POT-Creation-Date: 2022-09-30 05:30+0000\n"
-"PO-Revision-Date: 2023-04-15 16:28+0200\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"Project-Id-Version: 'enhancedAnnotations' '6.0.0'\n"
+"Report-Msgid-Bugs-To: 'nvda-translations@groups.io'\n"
+"POT-Creation-Date: 2023-06-02 10:45+0300\n"
+"PO-Revision-Date: 2023-06-02 11:00+0300\n"
+"Last-Translator: Heorhii <nvda.translation.uk@gmail.com>\n"
 "Language-Team: \n"
-"Language: hr\n"
+"Language: uk_UA\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0\n"
+"X-Generator: Poedit 3.3.1\n"
 
 #. Translators: the description for the reportDetailsSummary script.
+#: addon\globalPlugins\enhancedAnnotations\__init__.py:40
 msgid "Go to annotation details under the system caret."
-msgstr "Idi na detalje zabilješke ispod kursora sustava."
+msgstr "Перейти до деталей анотації під системною кареткою."
 
 #. Translators: the description for the script_popAnnotationStack script.
+#: addon\globalPlugins\enhancedAnnotations\__init__.py:92
 msgid "Return to annotation subject"
-msgstr "Vrati se na predmet zabilješke"
+msgstr "Повернутися до теми анотації"
 
 #. Translators: message given when there is no annotation details for the reportDetailsSummary script.
+#: addon\globalPlugins\enhancedAnnotations\__init__.py:103
 msgid "No annotation subject present"
-msgstr "Nema predmeta zabilješki"
+msgstr "Тема анотації відсутня"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
 msgid "Enhanced Annotations"
-msgstr "Napredne zabilješke"
+msgstr "Розширені анотації"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
 msgid ""
 "Adds ability to move the cursor to additional details, and back to the "
 "original element, in browse mode.\n"
@@ -43,21 +48,8 @@ msgid ""
 "\thttps://github.com/nvaccess/nvda/issues/13940\n"
 "\t"
 msgstr ""
-"Dodaje mogućnost premještanja kursora na dodatne detalje i natrag na izvorni "
-"element u modusu čitanja.\n"
-"\tOvo je bilo zatraženo na\n"
+"Додає можливість переміщати курсор до додаткових деталей і повертатися "
+"до вихідного елемента в режимі перегляду.\n"
+"\tПро це було надіслано запит за адресою\n"
 "\thttps://github.com/nvaccess/nvda/issues/13940\n"
 "\t"
-
-#~ msgid "Navigates to the details of the current position in browse mode"
-#~ msgstr "Premješta kursor na detalje trenutačne pozicije u modusu čitanja"
-
-#~ msgid ""
-#~ "After navigating to additional details, moves back to the original "
-#~ "position in browse mode"
-#~ msgstr ""
-#~ "Nakon premještanja kursora na dodatne detalje, vraća se na izvornu "
-#~ "poziciju u modusu čitanja"
-
-#~ msgid "No element with additional details to go back"
-#~ msgstr "Nema elementa s dodatnim detaljima za vraćanje na izvorni element"

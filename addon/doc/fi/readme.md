@@ -1,7 +1,6 @@
 # Laajennetut merkinnät #
 
 * Tekijät: George Kerscher ja Noelia Ruiz Martínez
-* [Lataa vakaa versio][1] (yhteensopiva NVDA 2023.1:n ja uudempien kanssa)
 
 DAISY-konsortiossa kehitetään parhaita käytäntöjä julkaisijoille ja
 tekijöille laajennettujen (pitkien) kuvausten antamiseen.
@@ -46,7 +45,5 @@ Selaustila-kategoria.
 * Edellyttää NVDA 2023.1:tä tai uudempaa.
 
 [[!tag dev stable]]
-
-[1]: https://addons.nvda-project.org/files/get.php?file=enhancedannotations
 
 [2]: https://github.com/nvaccess/nvda/issues/13940
