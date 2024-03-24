@@ -18,24 +18,29 @@ msgstr ""
 "X-Generator: Poedit 3.3.1\n"
 
 #. Translators: the description for the reportDetailsSummary script.
+#: addon\globalPlugins\enhancedAnnotations\__init__.py:40
 msgid "Go to annotation details under the system caret."
 msgstr "Перейти до деталей анотації під системною кареткою."
 
 #. Translators: the description for the script_popAnnotationStack script.
+#: addon\globalPlugins\enhancedAnnotations\__init__.py:92
 msgid "Return to annotation subject"
 msgstr "Повернутися до теми анотації"
 
 #. Translators: message given when there is no annotation details for the reportDetailsSummary script.
+#: addon\globalPlugins\enhancedAnnotations\__init__.py:103
 msgid "No annotation subject present"
 msgstr "Тема анотації відсутня"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
+#: buildVars.py:17
 msgid "Enhanced Annotations"
 msgstr "Розширені анотації"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#: buildVars.py:20
 msgid ""
 "Adds ability to move the cursor to additional details, and back to the "
 "original element, in browse mode.\n"

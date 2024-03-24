@@ -1,6 +1,6 @@
 # Verbesserte Anmerkungen #
 
-* Autoren: George Kerscher, Noelia Ruiz Martínez
+* Authors: George Kerscher, Noelia Ruiz Martínez
 
 Im DAISY-Konsortium werden Best Practices für Verlage und Autoren
 entwickelt, um erweiterte (lange) Beschreibungen bereitzustellen.

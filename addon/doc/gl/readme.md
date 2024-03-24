@@ -1,6 +1,6 @@
 # Enhanced Annotations #
 
-* Autores: George Kerscher, Noelia Ruiz Martínez
+* Authors: George Kerscher, Noelia Ruiz Martínez
 
 No DAISY Consortium, as boas prácticas desenvólvense para publicadores e
 autores para proporcionar descricións extendidas (longas).
