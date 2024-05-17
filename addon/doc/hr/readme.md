@@ -1,6 +1,6 @@
 # Napredne zabilješke (Enhanced Annotations) #
 
-* Authors: George Kerscher, Noelia Ruiz Martínez
+* Autori: George Kerscher, Noelia Ruiz Martínez
 
 U konzorciju DAISY razvijaju se najbolje prakse za izdavače i autore za
 pružanje opsežnih opisa.
