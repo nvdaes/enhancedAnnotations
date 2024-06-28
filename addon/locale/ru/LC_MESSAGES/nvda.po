@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enhancedAnnotations package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: enhancedAnnotations 11.1.0\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
+"POT-Creation-Date: 2024-03-29 05:30+0000\n"
+"PO-Revision-Date: 2024-06-22 14:12+0300\n"
+"Last-Translator: Ruslan Kolodyazhni <rupelodn@gmail.com>\n"
+"Language-Team: Translators <nvda-translations@groups.io>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
+
+#. Translators: the description for the reportDetailsSummary script.
+msgid "Go to annotation details under the system caret."
+msgstr ""
+"Перейти к подробным сведениям об аннотации под системным курсором."
+
+#. Translators: the description for the script_popAnnotationStack script.
+msgid "Return to annotation subject"
+msgstr "Вернуться к теме аннотации"
+
+#. Translators: message given when there is no annotation details for the reportDetailsSummary script.
+msgid "No annotation subject present"
+msgstr "Отсутствует тема аннотации"
+
+#. Add-on summary, usually the user visible name of the addon.
+#. Translators: Summary for this add-on to be shown on installation and add-on information.
+msgid "Enhanced Annotations"
+msgstr "Расширенные аннотации"
+
+#. Add-on description
+#. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+msgid ""
+"Adds ability to move the cursor to additional details, and back to the "
+"original element, in browse mode.\n"
+"\tThis has been requested at\n"
+"\thttps://github.com/nvaccess/nvda/issues/13940\n"
+"\t"
+msgstr ""
+"Добавляет возможность перемещать курсор к дополнительным подробностям "
+"и обратно к исходному элементу в режиме обзора.\n"
+"\tЭто было запрошено по адресу\n"
+"\thttps://github.com/nvaccess/nvda/issues/13940\n"
+"\t"
