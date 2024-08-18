@@ -22,7 +22,7 @@ addon_info = {
 	https://github.com/nvaccess/nvda/issues/13940
 	"""),
 	# version
-	"addon_version": "16.0.0",
+	"addon_version": "17.0.0",
 	# Author(s)
 	"addon_author": u"George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
