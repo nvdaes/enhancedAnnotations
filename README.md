@@ -1,7 +1,6 @@
 # Enhanced Annotations #
 
 *	Authors: George Kerscher, Noelia Ruiz Martínez
-* [download stable version][1] (compatible with NVDA 2023.1 and beyond)
 
 In the DAISY Consortium, best practices are developed for publishers and authors for providing extended (long) descriptions.
 
@@ -15,7 +14,7 @@ Our best practices recommend that the details or the link immediately follows th
 
 However it is probable that authors in the wild will place the extended (long) description almost anywhere. In these cases, the user would want to return to the image and hence the need for a way to return to the original image.
 
-This add-on provides both features, in support of this [issue opened in NVDA's repository][2].
+This add-on provides both features, in support of this [issue opened in NVDA's repository][1].
 
 ## Commands ##
 
@@ -29,6 +28,5 @@ The above commands can be modified from NVDA's menu, Preferences submenu, Input 
 * Added ability to move back through multiple annotation origins.
 * Requires NVDA 2023.1 or later.
 
-[1]: https://www.nvaccess.org/addonStore/legacy?file=enhancedAnnotations
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940
