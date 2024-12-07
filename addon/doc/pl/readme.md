@@ -22,8 +22,8 @@ Jest jednak prawdopodobne, że autorzy na wolności umieszczą rozszerzony
 (długi) opis niemal wszędzie. W takich przypadkach użytkownik chciałby
 powrócić do obrazu, a tym samym potrzeba powrotu do oryginalnego obrazu.
 
-Ten dodatek zapewnia obie funkcje, wspierając ten [problem otwarty w
-repozytorium NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Polecenia ##
 
@@ -44,4 +44,4 @@ Preferencje, okna dialogowego Gesty wejściowe, kategorii Tryb przeglądania.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

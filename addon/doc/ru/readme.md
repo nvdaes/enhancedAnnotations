@@ -24,8 +24,8 @@
 захочет вернуться к изображению и, следовательно, ему потребуется способ
 вернуться к исходному изображению.
 
-Это дополнение предоставляет обе возможности поддержки этой [проблемы,
-открытой в репозитории NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Команды ##
 
@@ -45,4 +45,4 @@
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

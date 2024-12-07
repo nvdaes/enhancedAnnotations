@@ -24,8 +24,8 @@
 върне към изображението и оттук необходимостта от начин за връщане към
 оригиналното изображение.
 
-Тази добавка предоставя и двете функции в подкрепа на този [доклад,
-публикуван в хранилището на NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Команди ##
 
@@ -47,4 +47,4 @@
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

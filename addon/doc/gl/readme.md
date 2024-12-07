@@ -24,8 +24,8 @@ extendida (longa) case en calquera lugar. Neses casos, o usuario querería
 volver á imaxe, e de aí a necesidade dunha maneira de volver á imaxe
 orixinal.
 
-Este complemento proporciona ambas características, en soporte [desta
-incidencia aberta no repositorio de NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Ordes ##
 
@@ -46,4 +46,4 @@ Preferencias, diálogo de Xestos de entrada, categoría Modo exploración.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

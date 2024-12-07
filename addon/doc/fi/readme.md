@@ -23,8 +23,8 @@ On kuitenkin todennäköistä, että tekijät sijoittavat laajennetun (pitkän)
 kuvauksen melkein minne tahansa. Näissä tapauksissa käyttäjä haluaa palata
 kuvaan, ja siksi tarvitaan tapa palata alkuperäiseen kuvaan.
 
-Tämä lisäosa tarjoaa molemmat ominaisuudet, jotka tukevat tätä [NVDA:n
-lähdekoodivarastossa avattua ongelmaa][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Komennot ##
 
@@ -46,4 +46,4 @@ Selaustila-kategoria.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

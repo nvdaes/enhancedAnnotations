@@ -23,8 +23,8 @@
 цих випадках користувач захоче повернутися до зображення, а отже, потрібен
 спосіб повернутися до початкового зображення.
 
-Цей додаток надає обидві функції для вирішення цієї проблеми [ відкрито в
-репозиторії NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Команди ##
 
@@ -45,4 +45,4 @@
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

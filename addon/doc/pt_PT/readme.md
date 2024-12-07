@@ -23,8 +23,8 @@ extensa (longa) em quase qualquer lugar. Nestes casos, o utilizador gostaria
 de regressar à imagem e, por conseguinte, à necessidade de uma forma de
 regressar à imagem original.
 
-Este extra fornece ambas as características, em apoio a esta [questão aberta
-no repositório da NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Comandos: ##
 
@@ -44,4 +44,4 @@ Preferências, diálogo definir comandos, categoria Modo de navegação.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

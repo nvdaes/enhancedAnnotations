@@ -21,8 +21,8 @@ Međutim, vjerojatno je da će razni autori staviti opsežan opis gotovo bilo
 gdje. U tim slučajevima, korisnik bi se želio vratiti na sliku i otuda
 potreba za načinom vraćanja na izvornu sliku.
 
-Ovaj dodatak pruža obje funkcije kao podršku ovom [problemu koji je otvoren
-u NVDA repozitoriju][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Naredbe ##
 
@@ -43,4 +43,4 @@ dijalošk okvir za ulazne geste, kategorija modus čitanja.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

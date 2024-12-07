@@ -22,7 +22,7 @@ yere yerleştirmesi muhtemeldir. Bu durumlarda, kullanıcı resme geri dönmek
 isteyecektir ve dolayısıyla orijinal resme geri dönmek için bir yola ihtiyaç
 duyulacaktır.
 
-Bu eklenti, bu [NVDA deposunda açılan sorun][2] için her iki özelliği de
+Bu eklenti, bu [NVDA deposunda açılan sorun][1] için her iki özelliği de
 sağlar.
 
 ## Komutlar ##
@@ -43,4 +43,4 @@ iletişim kutusundan, Tarama modu kategorisinde değiştirilebilir.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

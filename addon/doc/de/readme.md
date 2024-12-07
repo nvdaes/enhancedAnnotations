@@ -25,8 +25,8 @@ Beschreibung fast überall platzieren. In diesen Fällen würde der Benutzer zu
 dem Bild zurückkehren wollen, und daher ist eine Möglichkeit erforderlich,
 zum Originalbild zurückzukehren.
 
-Diese NVDA-Erweiterung bietet beide Funktionen, um dies zu unterstützen
-[Problem eingereicht im NVDA-Repository][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Befehle ##
 
@@ -48,4 +48,4 @@ geändert werden.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940

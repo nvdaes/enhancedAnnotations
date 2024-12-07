@@ -23,8 +23,8 @@ Sin embargo, es probable que los autores sitúen la descripción extendida
 la imagen, de ahí la necesidad de una forma de regresar a la imagen
 original.
 
-Este complemento proporciona ambas características, como apoyo a esta
-[incidencia abierta en el repositorio de NVDA][2].
+This add-on provides both features, in support of this [issue opened in
+NVDA's repository][1].
 
 ## Órdenes ##
 
@@ -45,4 +45,4 @@ Preferencias, diálogo Gestos de entrada, categoría Modo exploración.
 
 [[!tag dev stable]]
 
-[2]: https://github.com/nvaccess/nvda/issues/13940
+[1]: https://github.com/nvaccess/nvda/issues/13940
