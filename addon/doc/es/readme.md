@@ -23,8 +23,8 @@ Sin embargo, es probable que los autores sitúen la descripción extendida
 la imagen, de ahí la necesidad de una forma de regresar a la imagen
 original.
 
-This add-on provides both features, in support of this [issue opened in
-NVDA's repository][1].
+Este complemento proporciona ambas características, como apoyo a esta
+[incidencia abierta en el repositorio de NVDA][1].
 
 ## Órdenes ##
 

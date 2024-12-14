@@ -24,8 +24,8 @@ Cependant, les auteurs sont susceptibles de placer la description étendue
 (longue) presque partout. Dans ces cas, l'utilisateur voudrait revenir à
 l'image, d'où la nécessité d'un moyen de revenir à l'image d'origine.
 
-This add-on provides both features, in support of this [issue opened in
-NVDA's repository][1].
+Cette extension fournit les deux fonctionnalités, en soutien d'une
+[incidence ouverte sur le dépôt de NVDA][1].
 
 ## Commandes ##
 
