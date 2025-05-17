@@ -23,8 +23,8 @@ On kuitenkin todennäköistä, että tekijät sijoittavat laajennetun (pitkän)
 kuvauksen melkein minne tahansa. Näissä tapauksissa käyttäjä haluaa palata
 kuvaan, ja siksi tarvitaan tapa palata alkuperäiseen kuvaan.
 
-This add-on provides both features, in support of this [issue opened in
-NVDA's repository][1].
+Tämä lisäosa tarjoaa molemmat ominaisuudet tukeakseen tätä [NVDA:n
+lähdekoodivarastossa avattua ongelmaa][1].
 
 ## Komennot ##
 
