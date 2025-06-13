@@ -8,7 +8,7 @@ The best practices use the HTML details element that follows the image, or a lin
 
 In both options, the user would need to move to the details or the link and activate it.
 
-Having a keystroke to put focus on the details or the link is ideal. 
+Having a keystroke to put focus on the details or the link is ideal.
 
 Our best practices recommend that the details or the link immediately follows the image, and if the link is followed, a back link to the exact location must be provided. This makes it certain that the user will not get lost.
 

@@ -6,8 +6,6 @@
 # Implementation of PR: https://github.com/nvaccess/nvda/pull/14389
 # Released under GPL 2
 
-from typing import Callable
-
 import api
 import ui
 import speech
@@ -26,19 +24,16 @@ from .skipTranslation import translate
 
 addonHandler.initTranslation()
 
-_: Callable[[str], str]
-
 
 class GlobalPlugin(globalPluginHandler.GlobalPlugin):
-
 	scriptCategory = inputCore.SCRCAT_BROWSEMODE
 
 	@script(
 		gesture="kb:NVDA+alt+d",
 		description=_(
 			# Translators: the description for the reportDetailsSummary script.
-			"Go to annotation details under the system caret."
-		)
+			"Go to annotation details under the system caret.",
+		),
 	)
 	def script_goToAnnotation(self, gesture):
 		"""Go to the annotation details for the single character under the caret or the object with
@@ -78,7 +73,6 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 		self._reportInfoAfterMove(info)
 
 	def _reportInfoAfterMove(self, info: "textInfos.TextInfo"):
-
 		# See impl of browseMode.TextInfoQuickNavItem.report sometimes readUnit is provided:
 		# It originates from using textInfos.UNIT_LINE for:
 		# Table, list, edit, frame, notLinkBlock, landmark
@@ -89,8 +83,8 @@ class GlobalPlugin(globalPluginHandler.GlobalPlugin):
 		gesture="kb:NVDA+alt+shift+d",
 		description=_(
 			# Translators: the description for the script_popAnnotationStack script.
-			"Return to annotation subject"
-		)
+			"Return to annotation subject",
+		),
 	)
 	def script_popAnnotationStack(self, gesture):
 		"""Go to the annotation subject for the single character under the caret or the object with
