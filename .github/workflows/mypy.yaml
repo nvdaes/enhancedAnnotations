@@ -1,9 +1,0 @@
-name: Check type hints
-
-on:
-  push:
-  pull_request:
-
-jobs:
-  mypy:
-    uses: nvdaes/nvdaAddonWorkflows/.github/workflows/mypy.yaml@main
