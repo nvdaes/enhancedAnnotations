@@ -1,0 +1,184 @@
+<?xml version="1.0"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:2.0" version="2.0" srcLang="en">
+<file id="readme.md" original="https://raw.githubusercontent.com/nvdaes/enhancedAnnotations/304fc9dc7386f04382788e777f2a1d6f9738946e/readme.md">
+<skeleton>
+# $(ID:7678f0d3-b5bb-4e49-a988-b30b4586efa1)
+
+*	$(ID:b5383dbf-ddcb-49c1-a117-71e9b5b3fa0d)
+
+$(ID:8eee9829-917d-4f5c-87d6-55b265c31ff7)
+
+$(ID:01450528-9a4e-4f92-87b0-dcfda476e83a)
+
+$(ID:43c9584d-0aac-4e8e-8a15-688dd23bdb17)
+
+$(ID:80121387-2a60-4138-8cf4-e1ce3c87624d)
+
+$(ID:02edd73a-0543-4733-b789-ff1fa8fa5010)
+
+$(ID:dc525d50-a3b8-46ec-9e26-ec031937943a)
+
+$(ID:58b7e2ca-3786-43f6-8554-7184a543dcea)
+
+## $(ID:45258d5f-5978-4a68-a07b-acd82e8908b2)
+
+* $(ID:1ec5932a-a50f-44c1-a53f-fa66c68cc54a)
+* $(ID:8c5ab380-95ed-4bb8-85f9-42d1b3d33895)
+
+$(ID:d9eb58bd-afc6-40f6-a5cb-7e169eecc29a)
+
+## $(ID:a16e078a-f594-4f89-8f74-37ac25b744a1)
+
+* $(ID:ae365cfd-386b-41f9-b4ad-1ead562f04b6)
+* $(ID:fb11a462-bb58-4cc7-a4c8-240c46221b70)
+
+
+$(ID:eb3a05ca-a35d-42cb-8f44-4390277b6d0f)
+
+</skeleton>
+<unit id="7678f0d3-b5bb-4e49-a988-b30b4586efa1">
+<notes>
+<note appliesTo="source">line: 2</note>
+<note appliesTo="source">prefix: # </note>
+</notes>
+<segment>
+<source>Enhanced Annotations #</source>
+</segment>
+</unit>
+<unit id="b5383dbf-ddcb-49c1-a117-71e9b5b3fa0d">
+<notes>
+<note appliesTo="source">line: 4</note>
+<note appliesTo="source">prefix: *	</note>
+</notes>
+<segment>
+<source>Authors: George Kerscher, Noelia Ruiz Martínez</source>
+</segment>
+</unit>
+<unit id="8eee9829-917d-4f5c-87d6-55b265c31ff7">
+<notes>
+<note appliesTo="source">line: 6</note>
+</notes>
+<segment>
+<source>In the DAISY Consortium, best practices are developed for publishers and authors for providing extended (long) descriptions.</source>
+</segment>
+</unit>
+<unit id="01450528-9a4e-4f92-87b0-dcfda476e83a">
+<notes>
+<note appliesTo="source">line: 8</note>
+</notes>
+<segment>
+<source>The best practices use the HTML details element that follows the image, or a link to another file that contains the extended description.</source>
+</segment>
+</unit>
+<unit id="43c9584d-0aac-4e8e-8a15-688dd23bdb17">
+<notes>
+<note appliesTo="source">line: 10</note>
+</notes>
+<segment>
+<source>In both options, the user would need to move to the details or the link and activate it.</source>
+</segment>
+</unit>
+<unit id="80121387-2a60-4138-8cf4-e1ce3c87624d">
+<notes>
+<note appliesTo="source">line: 12</note>
+</notes>
+<segment>
+<source>Having a keystroke to put focus on the details or the link is ideal.</source>
+</segment>
+</unit>
+<unit id="02edd73a-0543-4733-b789-ff1fa8fa5010">
+<notes>
+<note appliesTo="source">line: 14</note>
+</notes>
+<segment>
+<source>Our best practices recommend that the details or the link immediately follows the image, and if the link is followed, a back link to the exact location must be provided. This makes it certain that the user will not get lost.</source>
+</segment>
+</unit>
+<unit id="dc525d50-a3b8-46ec-9e26-ec031937943a">
+<notes>
+<note appliesTo="source">line: 16</note>
+</notes>
+<segment>
+<source>However it is probable that authors in the wild will place the extended (long) description almost anywhere. In these cases, the user would want to return to the image and hence the need for a way to return to the original image.</source>
+</segment>
+</unit>
+<unit id="58b7e2ca-3786-43f6-8554-7184a543dcea">
+<notes>
+<note appliesTo="source">line: 18</note>
+</notes>
+<segment>
+<source>This add-on provides both features, in support of this [issue opened in NVDA's repository][1].</source>
+</segment>
+</unit>
+<unit id="45258d5f-5978-4a68-a07b-acd82e8908b2">
+<notes>
+<note appliesTo="source">line: 20</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Commands ##</source>
+</segment>
+</unit>
+<unit id="1ec5932a-a50f-44c1-a53f-fa66c68cc54a">
+<notes>
+<note appliesTo="source">line: 22</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>NVDA+alt+d: moves the cursor to the element identified with aria-details.</source>
+</segment>
+</unit>
+<unit id="8c5ab380-95ed-4bb8-85f9-42d1b3d33895">
+<notes>
+<note appliesTo="source">line: 23</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>NVDA+alt+shift+d: moves the cursor to the original element, for example, an image with furter details like a long description. If NVDA+alt+d has been pressed several times to move to related annotations, it'll be possible to go back to each origin.</source>
+</segment>
+</unit>
+<unit id="d9eb58bd-afc6-40f6-a5cb-7e169eecc29a">
+<notes>
+<note appliesTo="source">line: 25</note>
+</notes>
+<segment>
+<source>The above commands can be modified from NVDA's menu, Preferences submenu, Input gestures dialog, Browse mode category.</source>
+</segment>
+</unit>
+<unit id="a16e078a-f594-4f89-8f74-37ac25b744a1">
+<notes>
+<note appliesTo="source">line: 27</note>
+<note appliesTo="source">prefix: ## </note>
+</notes>
+<segment>
+<source>Changes for 2.0 ##</source>
+</segment>
+</unit>
+<unit id="ae365cfd-386b-41f9-b4ad-1ead562f04b6">
+<notes>
+<note appliesTo="source">line: 29</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>Added ability to move back through multiple annotation origins.</source>
+</segment>
+</unit>
+<unit id="fb11a462-bb58-4cc7-a4c8-240c46221b70">
+<notes>
+<note appliesTo="source">line: 30</note>
+<note appliesTo="source">prefix: * </note>
+</notes>
+<segment>
+<source>Requires NVDA 2023.1 or later.</source>
+</segment>
+</unit>
+<unit id="eb3a05ca-a35d-42cb-8f44-4390277b6d0f">
+<notes>
+<note appliesTo="source">line: 33</note>
+</notes>
+<segment>
+<source>[1]: https://github.com/nvaccess/nvda/issues/13940</source>
+</segment>
+</unit>
+</file>
+</xliff>
