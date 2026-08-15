@@ -22,10 +22,10 @@ addon_info = AddonInfo(
 	# Translators: Long description to be shown for this add-on on add-on information from add-on store
 	addon_description=_('Adds ability to move the cursor to additional details, and back to the original element, in browse mode.\nThis has been requested at\nhttps://github.com/nvaccess/nvda/issues/13940\n'),
 	# version
-	addon_version='22.0.0',
+	addon_version="22.0.0",
 	# Brief changelog for this version
 	# Translators: what's new content for the add-on version to be shown in the add-on store
-	addon_changelog=_('* Compatible with NVDA 2026.1.'),
+	addon_changelog=_("* Updates to translations."),
 	# Author(s)
 	addon_author='George Kerscher <kerscher@montana.com>, Noelia Ruiz Martínez <nrm1977@gmail.com>',
 	# URL for the add-on documentation support
