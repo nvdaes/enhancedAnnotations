@@ -1,32 +1,46 @@
 # Gelişmiş Ek Açıklamalar #
 
-*	Yazarlar: George Kerscher, Noelia Ruiz Martínez
+* Yazarlar: George Kerscher, Noelia Ruiz Martínez
 
-DAISY Konsorsiyumu'nda, yayıncılar ve yazarlar için uzun açıklamalar sağlamaya yönelik en iyi uygulamalar geliştirilmektedir.
+DAISY Konsorsiyumu'nda, yayıncılar ve yazarlar için genişletilmiş (uzun)
+açıklamalar sağlamak için en iyi uygulamalar geliştirilmiştir.
 
-En iyi uygulamalar, görseli takip eden HTML ayrıntıları öğesini veya genişletilmiş açıklamayı içeren başka bir dosyaya olan linki kullanır.
+En iyi uygulamalar, görüntüyü izleyen HTML ayrıntıları öğesini veya
+genişletilmiş açıklamayı içeren başka bir dosyanın bağlantısını kullanır.
 
-Her iki seçenekte de kullanıcının ayrıntılara veya Linke gitmesi ve onu etkinleştirmesi gerekir.
+Her iki seçenekte de kullanıcının ayrıntılara veya bağlantıya gitmesi ve
+etkinleştirmesi gerekir.
 
-Ayrıntılara veya linke odaklanmak için bir tuşa basmak idealdir.
+Ayrıntılara veya bağlantıya odaklanmak için bir tuşa basmak idealdir.
 
-En iyi uygulamalarımız, ayrıntıların veya bağlantının hemen görseli takip etmesini ve bağlantı takip edilirse tam konuma yönlendiren bir geri bağlantının sağlanmasını önermektedir. Bu, kullanıcının kaybolmayacağını kesinleştirir.
+En iyi uygulamalarımız, ayrıntıların veya bağlantının resmin hemen ardından
+gelmesini ve bağlantı takip edilirse tam konuma bir geri bağlantı
+sağlanmasını önerir. Bu, kullanıcının kaybolmayacağını garanti eder.
 
-Ancak, yazarların uzun açıklamayı neredeyse her yere yerleştirmeleri muhtemeldir. Bu durumlarda, kullanıcı görsele geri dönmek isteyecektir ve bu nedenle orijinal görsele geri dönmenin bir yoluna ihtiyaç duyulacaktır.
+Ancak vahşi doğada yazarların genişletilmiş (uzun) açıklamayı neredeyse her
+yere yerleştirmesi muhtemeldir. Bu durumlarda, kullanıcı resme geri dönmek
+isteyecektir ve dolayısıyla orijinal resme geri dönmek için bir yola ihtiyaç
+duyulacaktır.
 
-Bu eklenti, NVDA'nın deposunda açılan bu [sorunu][1] desteklemek amacıyla her iki özelliği de sunmaktadır.
+Bu eklenti, bu [NVDA deposunda açılan sorun][1] için her iki özelliği de
+sağlar.
 
 ## Komutlar ##
 
 * NVDA+alt+d: imleci aria-details ile tanımlanan öğeye taşır.
-* NVDA+alt+shift+d: imleci orijinal öğeye, örneğin uzun bir açıklama gibi daha fazla ayrıntı içeren bir resme taşır. İlgili ek açıklamalara gitmek için NVDA+alt+d'ye birkaç kez basıldıysa, her bir kaynağa geri dönmek mümkün olacaktır.
+* NVDA+alt+shift+d: imleci orijinal öğeye, örneğin uzun bir açıklama gibi
+  daha ayrıntılı ayrıntılara sahip bir görüntüye taşır. İlgili açıklamalara
+  gitmek için NVDA+alt+d'ye birkaç kez basıldıysa, her bir kaynağa geri
+  dönmek mümkün olacaktır.
 
-Yukarıdaki komutlar NVDA menüsünden, Tercihler alt menüsünden, Girdi hareketleri iletişim kutusundan, Tarama Kipi kategorisinden değiştirilebilir.
+Yukarıdaki komutlar NVDA menüsü, Tercihler alt menüsü, Girdi hareketleri
+iletişim kutusundan, Tarama modu kategorisinde değiştirilebilir.
 
 ## 2.0 için değişiklikler ##
 
-* Birden fazla açıklama kaynağına geri dönme yeteneği eklendi.
-* NVDA 2023.1 veya üzerini gerektirir.
+* Birden fazla ek açıklama kaynağı arasında geri gitme yeteneği eklendi.
+* NVDA 2023.1 veya sonraki sürümünü gerektirir.
 
+[[!tag dev stable]]
 
 [1]: https://github.com/nvaccess/nvda/issues/13940
